@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+🔭 I’m currently learning APIs
+🌱 Pronouns: He/ Him
+⚡ Fun fact: Your left hand looks better than your right 😄
 <!--
 **iansendwa/iansendwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
